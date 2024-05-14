@@ -25,7 +25,7 @@ Frameworks:
 - from sklearn.preprocessing import StandardScaler # Scaling feature
 
 # Architecture Diagram
-![image](..//Yazid-DE-Mini-Project/Diagram%20ETL.png)
+![image](//Diagram%20ETL.png)
 
 # Setup
 - Clone repository proyek dari GitHub.
