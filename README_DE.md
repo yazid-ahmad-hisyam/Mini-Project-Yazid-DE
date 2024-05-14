@@ -8,6 +8,7 @@ Social-Economic Countries merupakan kumpulan data dari tahun 1960 hingga 2023 ya
 Tools:
 - Visual Studio Code
 - Jupyter Notebook
+- Github Desktop
 - Github
 
 Frameworks:
