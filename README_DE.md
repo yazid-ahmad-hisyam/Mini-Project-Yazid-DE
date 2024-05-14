@@ -23,6 +23,7 @@ Frameworks:
 - from dotenv import load_dotenv # Lingkungan variable - .env
 - from firebase_admin import credentials, initialize_app, storage # Firebase - load
 - from sklearn.preprocessing import StandardScaler # Scaling feature
+- from openai import OpenAI # AI
 
 # Architecture Diagram
 ![image](Diagram_ETL.png)
