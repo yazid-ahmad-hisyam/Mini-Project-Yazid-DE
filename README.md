@@ -27,7 +27,7 @@ Frameworks:
 - from openai import OpenAI # AI
 
 # Architecture Diagram
-![image](Firebase-Load.png)
+![image](Diagram_ETL.png)
 
 # Setup
 - Clone repository proyek dari GitHub.
